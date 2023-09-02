@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Demo Releases Nexus Repository</name>
-	      <url>http://localhost:8081/repository/Demo-releases/</url>
+	      <url>http://localhost:8081/repository/demo-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Demo Snapshot Nexus Repository </name>
-	      <url>http://localhost:8081/repository/Demo-snapshots/</url>
+	      <url>http://localhost:8081/repository/demo-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
