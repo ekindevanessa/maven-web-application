@@ -94,13 +94,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>Demo Releases Nexus Repository</name>
 	      <url>http://localhost:8081/repository/Demo-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>Demo Snapshot Nexus Repository </name>
 	      <url>http://localhost:8081/repository/Demo-snapshots/</url>
 	    </snapshotRepository>
 	    
